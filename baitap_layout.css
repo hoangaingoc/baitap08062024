@@ -6,7 +6,7 @@
 }
 
 .logo {
-    border: 1px solid dimgrey;
+    border: 1px solid;
     width: 25%;
     height: 100px;
     margin-right: 5px;
@@ -16,7 +16,7 @@
 }
 
 .banner {
-    border: 1px solid dimgrey;
+    border: 1px solid;
     width: 75%;
     height: 100px;
     align-items: center;
@@ -25,7 +25,7 @@
 }
 
 .menu {
-    border: 1px solid dimgrey;
+    border: 1px solid;
     width: 100%;
     height: 30px;
     margin-bottom: 5px;
@@ -37,7 +37,7 @@
     height: 30px;
     color: darkblue;
     display: flex;
-    border-left: 1px solid black;
+    border-left: 1px solid;
 }
 .main {
     width: 100%;
@@ -52,7 +52,7 @@
 
 }
 .leftTop {
-    border: 1px solid dimgrey;
+    border: 1px solid;
     width: 100%;
     height: 150px;
     margin-bottom: 10px;
@@ -63,7 +63,7 @@ p {
     object-fit: contain;
 }
 .leftBottom {
-    border: 1px solid dimgrey;
+    border: 1px solid;
     width: 100%;
     height: 330px;
 }
@@ -117,7 +117,7 @@ img {
 }
 
 .footer {
-    border: 2px solid dimgrey;
+    border: 2px solid;
     width: 100%;
     height: 30px;
     margin-bottom: 5px;
@@ -140,6 +140,6 @@ img {
     justify-content: right;
 }
 .line {
-    border-left: 1px solid black;
+    border-left: 1px solid;
     padding-left: 5px;
 }
